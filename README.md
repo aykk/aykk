@@ -1,4 +1,4 @@
-###hi, i'm andrew! 🇰🇷
+### hi, i'm andrew! 🇰🇷
 
 <!--
 **aykk/aykk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
