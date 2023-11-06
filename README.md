@@ -10,6 +10,8 @@ I'm always looking for new learning opportunities, so feel free to reach out at 
 
 ### what i'm listening to: <a href="https://open.spotify.com/user/f0olish" target="blank"><img align="" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" height="25" /></a>
 
+<iframe src="https://giphy.com/embed/L0rDsOKmBnOOOMlGQH" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/xbox-L0rDsOKmBnOOOMlGQH">via GIPHY</a></p>
+
 <!--
 **aykk/aykk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
