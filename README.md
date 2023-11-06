@@ -4,7 +4,7 @@ I'm a 2nd year at Virginia Tech studying Computer Science.
 
 Aside from coding, I enjoy playing guitar, basketball, boxing, and I play Tetris competitively!
 
-### instagram: <a href="https://www.instagram.com/jungmkn/" target="blank"><img align="" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" height="25" /></a>
+### socials: <a href="https://www.instagram.com/jungmkn/" target="blank"><img align="" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" height="25" /></a> <a href="https://www.linkedin.com/in/jungmink623/" target="blank"><img align="" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="25" /></a>
 
 ### what i'm listening to: <a href="https://open.spotify.com/user/f0olish" target="blank"><img align="" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" height="25" /></a>
 
