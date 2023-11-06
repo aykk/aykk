@@ -1,6 +1,6 @@
 ### hi, i'm andrew! 🇰🇷
 
-## instagram: <a href="https://www.instagram.com/jungmkn/" target="blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" height="25" /></a>
+## instagram: <a href="https://www.instagram.com/jungmkn/" target="blank"><src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" height="25" /></a>
 
 <!--
 **aykk/aykk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
