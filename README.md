@@ -2,7 +2,7 @@
 
 ### instagram: <a href="https://www.instagram.com/jungmkn/" target="blank"><img align="" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" height="25" /></a>
 
-### what i'm listening tos: <a href="https://open.spotify.com/user/f0olish" target="blank"><img align="" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" height="25" /></a>
+### what i'm listening to: <a href="https://open.spotify.com/user/f0olish" target="blank"><img align="" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" height="25" /></a>
 
 <!--
 **aykk/aykk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
