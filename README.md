@@ -4,6 +4,8 @@
 
 ### what i'm listening to: <a href="https://open.spotify.com/user/f0olish" target="blank"><img align="" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" height="25" /></a>
 
+### i enjoy making FPS video edits in my free time: <a href="https://www.youtube.com/channel/UCbVCQ4ZY_RM0rDNgPzGL0AQ" target="blank"><img align="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/318px-YouTube_full-color_icon_%282017%29.svg.png?20211015074811" height="25" /></a>
+
 <!--
 **aykk/aykk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
