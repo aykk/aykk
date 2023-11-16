@@ -2,7 +2,7 @@
 
 I'm a 2nd year at Virginia Tech studying Computer Science.
 
-Aside from coding, I enjoy basketball, boxing, reading manga, learning guitar, and playing video games!
+I am interested in web development, machine learning, and game development.
 
 ### socials: <a href="https://www.instagram.com/jungmkn/" target="blank"><img align="" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" height="25" /></a> <a href="https://www.linkedin.com/in/jungmink623/" target="blank"><img align="" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="25" /></a>
 
