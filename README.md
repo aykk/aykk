@@ -1,6 +1,6 @@
 ## hi, i'm andrew (he/him)! 🇰🇷
 
-I'm a 2nd year at Virginia Tech studying Computer Science.
+I'm a 3rd year at Virginia Tech studying Computer Science.
 
 I am interested in web development, machine learning, and game development.
 
