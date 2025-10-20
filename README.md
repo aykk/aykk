@@ -1,4 +1,4 @@
-## hi, i'm andrew
+## hi, i'm andrew (정민)
 
 studying computer science at virginia tech
 
