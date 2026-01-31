@@ -4,7 +4,7 @@ studying computer science at virginia tech
 
 interested in web development, design, ai, and blockchain/web3
 
-4x hackathon winner :D
+5x hackathon winner :D
 
 ### socials: <a href="https://www.instagram.com/jungmkn/" target="blank"><img align="" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" height="25" /></a> <a href="https://www.linkedin.com/in/jungmink623/" target="blank"><img align="" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="25" /></a>
 
