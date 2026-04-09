@@ -2,7 +2,7 @@
 
 studying computer science at virginia tech
 
-interested in web development, design, ai, and blockchain/web3
+interested in web development, design, ai, and blockchain/web3 stuff
 
 7x hackathon winner :D
 
