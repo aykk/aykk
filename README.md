@@ -2,7 +2,7 @@
 
 studied computer science at virginia tech (co 2026)
 
-all thing ai/ml, design, and blockchain/web3
+all things ai/ml, design, and blockchain/web3
 
 addicted to tetris
 
