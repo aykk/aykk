@@ -4,7 +4,7 @@ studied computer science at virginia tech (co 2026)
 
 ai/ml, design, and blockchain/web3
 
-top 200 tetr.io player
+top 200 [tetr.io](https://tetr.io) player
 
 8x hackathon winner, and MLH top 50 hacker (2026) :D
 
